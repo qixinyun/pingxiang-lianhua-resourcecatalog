@@ -28,7 +28,7 @@ interface IUserGroupIdentify
         IUserGroup::ID['XLFW'] => 'XLFW',
         IUserGroup::ID['XFGJ'] => 'XFGJ',
         IUserGroup::ID['XSTHJJ'] => 'XSTHJJ',
-        IUserGroup::ID['XSWJ'] => 'XSWJ',
+        IUserGroup::ID['XSWUJ'] => 'XSWUJ',
         IUserGroup::ID['XMZJ'] => 'XMZJ',
         IUserGroup::ID['XNYJ'] => 'XNYJ',
         IUserGroup::ID['XWGXJ'] => 'XWGXJ',

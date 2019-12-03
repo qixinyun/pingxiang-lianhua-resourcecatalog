@@ -28,7 +28,7 @@ interface IUserGroup extends IUserGroupIdentify
         'XLFW' => 21,
         'XFGJ' => 22,
         'XSTHJJ' => 23,
-        'XSWJ' => 24,
+        'XSWUJ' => 24,
         'XMZJ' => 25,
         'XNYJ' => 26,
         'XWGXJ' => 27,
