@@ -104,6 +104,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYDXXX'] => '企业吊销信息',
         IResourceCatalog::TYPE['CCJCJGXX'] => '抽查检查结果信息',
         IResourceCatalog::TYPE['GGXYZHPJ'] => '公共信用综合评价',
+        IResourceCatalog::TYPE['QIYEJBXX'] => '企业基本信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

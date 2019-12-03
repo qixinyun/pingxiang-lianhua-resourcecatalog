@@ -103,6 +103,7 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['GGXYZHPJ'] => 'GGXYZHPJ',
         IResourceCatalog::TYPE['XBXZCF'] => 'XBXZCF',
         IResourceCatalog::TYPE['XBXZXK'] => 'XBXZXK',
+        IResourceCatalog::TYPE['QIYEJBXX'] => 'QIYEJBXX',
         IResourceCatalog::TYPE['TEST'] => 'TEST'
     );
 }
