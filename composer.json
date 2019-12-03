@@ -1,0 +1,18 @@
+{
+    "name": "qixinyun/pingxiang-lianhua-resourcecatalog",
+    "description": "lianhua resourcecatalog",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qixinyun",
+            "email": "alex@qixinyun.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ResourceCatalog\\": "src/ResourceCatalog"
+        }
+    }
+}
